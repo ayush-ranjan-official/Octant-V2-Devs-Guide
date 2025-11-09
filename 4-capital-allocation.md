@@ -39,6 +39,8 @@ Once deployed, your community members can:
 
 > **Critical Security Warning:** The Regen Staker system is built for standard ERC20 tokens. It **DOES NOT** support fee-on-transfer, rebasing, or deflationary tokens. Using a "weird token" *will* break the accounting math and lead to lost funds.
 
+![Diagram](Assets/part4.png)
+
 ---
 
 ### 🏛️ The "Grants Program": Tokenized Allocation Mechanism (TAM)

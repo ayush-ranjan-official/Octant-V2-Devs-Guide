@@ -14,6 +14,8 @@ Right now, the on-chain world is split into two inefficient camps:
 
 This system is inefficient on one side and unsustainable on the other.
 
+![Problem Diagram](Assets/problem.png)
+
 #### The "Why": The Connective Tissue
 Octant V2 is designed to be the **"connective tissue"** that fixes this. It's the plumbing that creates a permanent, automated link between two key areas:
 
@@ -29,6 +31,8 @@ To understand the Octant model, you need to know the two key players defined in 
 * 🧑‍🤝‍🧑 **The "Stakers" & "Allocators":** This is the **Community**. These are the users who hold the Dragon's native token. Octant's `Regen Staker` system (which we'll cover later) allows them to lock their tokens to gain rewards and, crucially, to *participate* in the "allocation process" - voting on where the Dragon's yield should go.
 
 This model aligns incentives: The Dragons provide the capital, and the Community helps allocate that capital's yield in a decentralized way.
+
+![Solution Diagram](Assets/sol.png)
 
 #### The Core Promise: The "Self-Repaying Donation"
 If you remember only one thing from this section, make it this. The "golden rule" of Octant V2 is:
@@ -63,6 +67,8 @@ This is simply a `Payment Splitter` contract that sits at the "donation address"
 * **50%** to the Community Grants Pool (for a Quadratic Funding round).
 * **30%** to the Operations multisig (to pay for core devs).
 * **20%** to an Ecosystem Fund.
+
+![Splitter Diagram](Assets/flow.png)
 
 #### Contribution Types
 So, how do "Dragons" get their funds *into* this system? There are two main methods:

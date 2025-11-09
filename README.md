@@ -1,5 +1,7 @@
 # Octant V2 Under the Hood: A Developer's Guide to the Core Architecture
 
+![Logo](Assets/ocatant_logo.svg)
+
 Hello and Welcome! This repository contains the complete 5-part technical guide to Octant V2. This tutorial is designed to take you from the core vision and architecture to writing, testing, and deploying your own custom Yield Strategies (YDS) and Governance Mechanisms (TAM).
 
 This tutorial is a submission for the **"Best tutorial for Octant v2"** track in the Octant DeFi Hackathon.

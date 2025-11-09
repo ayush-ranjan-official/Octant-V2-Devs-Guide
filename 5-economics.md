@@ -47,6 +47,8 @@ This second model is a fascinating experiment designed to solve a huge problem i
 
 This simple shift aligns everyone's incentives. It encourages donors to ask, "Which of these projects is *truly* going to be effective?"-a question that is core to building a sustainable ecosystem.
 
+![Diagram](Assets/part4.png)
+
 -----
 
 Thank you for following along with this guide. You now have the complete mental model to go from idea to implementation.

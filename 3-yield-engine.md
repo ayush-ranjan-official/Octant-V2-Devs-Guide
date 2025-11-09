@@ -50,6 +50,8 @@ This is the core innovation of YDS. It protects your users' principal by using t
 * **On Loss (The Buffer):** A `report()` is called. The "Engine" sees a $40 loss. It **burns $40 worth of shares from the `donationAddress`'s buffer** *first*. Your user's PPS *still* stays flat.
 * **On Catastrophe (Socialized Loss):** A `report()` is called. The "Engine" sees a $200 loss. The buffer only has $60 left. The "Engine" burns the entire $60 buffer, but there is still $140 of the loss remaining. This $140 loss is now **"socialized,"** and the PPS for *all* holders (including your users) finally drops to cover it.
 
+![Diagram](Assets/part3.png)
+
 #### Developer Guide: Building a YDS (Foundry Tutorial)
 Let's build the `sDAI` strategy from the tutorial.
 

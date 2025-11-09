@@ -32,6 +32,7 @@ This contract is tiny and cheap to deploy. It holds almost no logic. It only hol
 1.  **Storage:** The "filing cabinet" for your specific strategy or mechanism's data.
 2.  **Policy (The "Hooks"):** Your custom "rules" (e.g., `_deployFunds` or `_processVoteHook`).
 
+![Diagram](Assets/engine.png)
 ---
 
 ### ✨ The "Magic": How They Connect Securely
