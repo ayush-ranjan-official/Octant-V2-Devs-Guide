@@ -6,6 +6,12 @@ Hello and Welcome! This repository contains the complete 5-part technical guide 
 
 This tutorial is a submission for the **"Best tutorial for Octant v2"** track in the Octant DeFi Hackathon.
 
+## 📺 Video Overview
+
+For a high-level overview of the entire 5-part series, check out the video tutorial:
+
+[![Octant V2 Tutorial: A Full-Stack Overview](https://img.youtube.com/vi/b9aZbFLe1gI/hqdefault.jpg)](https://www.youtube.com/watch?v=b9aZbFLe1gI)
+
 ## 📚 Content List (Table of Contents)
 
 Here are the links to each part of the tutorial.
