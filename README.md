@@ -38,3 +38,7 @@ This tutorial is broken into 5 parts, designed to be read in order. Each part bu
 
 * **Part 5: The Economic Flywheel (Tying It All Together)**
     * In the final part, we zoom out. We'll see how the tools we built are used to power high-level economic models like the **Sustainability Pool** and **Impact Bonds**, creating a true economic flywheel.
+
+---
+
+Made with ❤️ by Ayush Ranjan
